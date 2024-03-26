@@ -1,0 +1,35 @@
+.cart-item{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.summary{
+    margin-top:5px;
+    /* margin-bottom:10px; */
+    padding-bottom:10px;
+    border-bottom:1px solid #8a2b06;
+}
+
+.price{
+    padding-top:7px;
+    padding-bottom:7px;
+    color:#8a2b06;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.amount{
+    margin-left: 12%;
+    padding:3px 2px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.actions{
+    display:flex;
+    justify-content:space-around;
+    width:150px;
+    margin-left:70%;
+    color:#8a2b06;
+    bottom:45px;
+    position:relative;
+}
